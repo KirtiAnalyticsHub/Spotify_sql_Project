@@ -151,7 +151,8 @@ This optimization shows how indexing can drastically reduce query time, improvin
 
 ---
 
-## Contributing
-If you would like to contribute to this project, feel free to fork the repository, submit pull requests, or raise issues.
+## Author - Kirti Analytics Hub
 
----
+This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
+
+Made with ❤ for SQL practice and learning.
